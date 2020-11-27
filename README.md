@@ -1,0 +1,2 @@
+# Java_ovodai_etkeztetes
+Óvodai étkeztetést támogató program Java programozás tárgy beadandó feladatára
